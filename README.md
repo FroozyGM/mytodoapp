@@ -40,3 +40,8 @@ Run the app in live development mode:
 ```bash
 wails dev
 ```
+
+![screenshot_1](https://github.com/user-attachments/assets/e313c9ec-b074-4837-afd3-c518cd50d16b)
+![screenshot_2](https://github.com/user-attachments/assets/77135b8c-0006-4b81-811a-92e551e53191)
+![screenshot_3](https://github.com/user-attachments/assets/3dc917d9-d4f3-49e5-b5c7-bde317fadf9d)
+![screenshot_4](https://github.com/user-attachments/assets/0af313f8-4982-4576-8a1c-85ec78a1ec82)
